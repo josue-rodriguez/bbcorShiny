@@ -56,6 +56,7 @@ ui <- fluidPage(
                                     "Gaussian Rank" = "gaussian_rank",
                                     "Polychoric" = "polychoric",
                                     "Blomqvist" = "blomqvist")),
+            helpText("Note: Polychoric correlations require all variables to have 8 or less categories and may take a while to finish sampling."),
             bsTooltip("corrType", 
                       "Select Correlation Type", 
                       placement = "right",
