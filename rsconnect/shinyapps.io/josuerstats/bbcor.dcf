@@ -1,0 +1,11 @@
+name: bbcor
+title:
+username:
+account: josuerstats
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4289449
+bundleId: 4740248
+url: https://josuerstats.shinyapps.io/bbcor/
+when: 1624297089.0652
+lastSyncTime: 1624297089.0652
